@@ -8,6 +8,9 @@ A complete implementation of a feedforward neural network from first principles,
 Most deep learning work relies on automatic differentiation.
 This project was built to re-derive and verify backpropagation manually, ensuring a first-principles understanding of how neural networks actually learn.
 
+<img width="526" height="466" alt="image" src="https://github.com/user-attachments/assets/4750891b-73fa-44e6-83be-4c172b00d271" />
+
+
 ## What’s implemented
 
 *   Fully connected neural network (MLP)
